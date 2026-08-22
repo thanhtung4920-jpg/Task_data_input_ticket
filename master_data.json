@@ -1,0 +1,6 @@
+{
+  "Activity": ["ORP", "TRP", "UDF", "FLU", "ACT", "PrjAct", "DeptAct", "LEAVE", "MODELING", "REVIEW", "CNS_STD", "CNS_NSTD"],
+  "ProjectName": ["DC-BDC", "DC-MH", "PT", "CADENAS", "WujP", "ENM", "Subaru_Translation_support", "Translation_NIKK", "Translation_drw_PS-DP", "Ahmp_PU&MB", "SPM", "BMG", "WujP_END-PM_Manifold-HPU", "Other"],
+  "Status": ["Completed", "Delivered", "Released", "CallBack", "Closed"],
+  "USERID": ["ACC1HC", "RUO81HC", "LVN1HC", "UDU81HC", "IYL1HC", "PDN81HC", "DHA81HC", "HVO81HC", "PCA1HC", "PDO2HC", "LAY2HC", "TTO6HC", "NUP81HC", "HUQ4HC", "VOO7HC", "DAM8HC", "VMO3HC", "YEH1HC", "NUC4HC", "NQO6HC", "HDN2HC", "HMO8HC", "CHA5HC", "TMN7HC", "HNI2HC"]
+}
